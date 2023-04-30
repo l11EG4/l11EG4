@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A61F69&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
+  </a>
 
 <!--
 **l11EG4/l11EG4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
