@@ -44,10 +44,8 @@ My name is Zakaria Berahmi, and I am a designer and frontend developer based in 
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=l11EG4&theme=tokyonight_duo&hide_border=true"
  </p>
 
-<p align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media.licdn.com/dms/image/D4E16AQGRpxPPhzJPfA/profile-displaybackgroundimage-shrink_350_1400/0/1683028169378?e=1688601600&amp;v=beta&amp;t=zjU2Yd1geFRjqt1qKC8a8nkM2jifDeK9StUbUQhgEz4" width="1020" height="254">
-</p>
- 
+![Working](https://media.licdn.com/dms/image/D4E16AQGRpxPPhzJPfA/profile-displaybackgroundimage-shrink_350_1400/0/1683028169378?e=1688601600&v=beta&t=zjU2Yd1geFRjqt1qKC8a8nkM2jifDeK9StUbUQhgEz4)
+
 #### Profile Views
   
 ![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
