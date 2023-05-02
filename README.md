@@ -4,9 +4,10 @@
   </a>
 
  ![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
-
+ 
 ## 💫 About Me:
 <li>My name is <code>Zakaria Berahmi</code>, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</li>
+ </p>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
