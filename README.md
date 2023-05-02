@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A61F69&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l11EG4&label=Profile%20views&color=0e75b6&style=flat" alt="l11EG4" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l11EG4&label=Profile%20views&color=00b3ff&style=flat" alt="l11EG4" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
 
 ##  My GitHub Stats & Activity
