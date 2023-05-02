@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/f4b8500b41efb3f2982f9d153619857907dcb3458afc72303441028188b55cb7/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6c7262696d72356263786d6576647038683730342e676966" width="1020" height="573">
+ ![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
 
 ## 💫 About Me:
 My name is Zakaria Berahmi, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.
