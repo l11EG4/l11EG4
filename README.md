@@ -6,7 +6,7 @@
  ![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
 
 ## 💫 About Me:
-My name is Zakaria Berahmi, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.
+<li>My name is <code>Zakaria Berahmi</code>, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</li>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
@@ -52,11 +52,8 @@ My name is Zakaria Berahmi, and I am a designer and frontend developer based in 
 
  <details>
  <summary><h3> 👩🏽‍💻 l11EG4's Bio</h6></summary>
-
-As a designer, I am passionate about creating visual identities that capture the essence of a brand and tell its story in a compelling way. Whether designing logos, websites, or marketing materials, I am always looking for ways to push the boundaries of creativity and innovation.
-
-As a frontend developer, I am highly skilled in a range of web development technologies, including HTML, CSS, JavaScript, and more. I am committed to creating web experiences that are intuitive, user-friendly, and accessible to everyone, regardless of their device or ability.
-
-Living in Rabat has been an incredible source of inspiration for my work, and I am constantly drawing on the rich history and culture of this beautiful city to inform my designs. When I am not working, you can often find me exploring the local markets and trying out new restaurants, or spending time with my family and friends.
-
-If you are looking for a talented and dedicated designer and frontend developer who is passionate about creating beautiful and functional digital experiences, then look no further than Zakaria Berahmi. I would be honored to work with you on your next project and help bring your vision to life.
+<ul>
+<li>As a designer, I am passionate about creating visual identities that capture the essence of a brand and tell its story in a compelling way. Whether designing logos, websites, or marketing materials, I am always looking for ways to push the boundaries of creativity and innovation.</li>
+<li>As a frontend developer, I am highly skilled in a range of web development technologies, including HTML, CSS, JavaScript, and more. I am committed to creating web experiences that are intuitive, user-friendly, and accessible to everyone, regardless of their device or ability.</li>
+<li>Living in Rabat has been an incredible source of inspiration for my work, and I am constantly drawing on the rich history and culture of this beautiful city to inform my designs. When I am not working, you can often find me exploring the local markets and trying out new restaurants, or spending time with my family and friends.</li>
+<li>If you are looking for a talented and dedicated designer and frontend developer who is passionate about creating beautiful and functional digital experiences, then look no further than Zakaria Berahmi. I would be honored to work with you on your next project and help bring your vision to life.</li>
