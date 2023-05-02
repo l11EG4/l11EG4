@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
 
-##  My GitHub Stats & Activity
+## 📊 My GitHub Stats & Activity
 
 ###  Profile Stats
 
@@ -17,6 +17,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
+### Graph
+  ![l11EG4's status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l11EG4&theme=vue)
+  
+#
 ###  Streak Stats
 
  <p align="center">
