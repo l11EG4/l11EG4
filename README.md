@@ -8,7 +8,7 @@
 ## 💫 About Me:
 My name is Zakaria Berahmi, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-berahmi-8b6988144/)
