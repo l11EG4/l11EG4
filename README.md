@@ -52,7 +52,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
 
  <details>
- <summary><h3> <img src="https://emoji.discadia.com/emojis/74689fa9-cbc2-4887-a895-4e6bee49944a.GIF" width="30px"> l11EG4's Bio</h6></summary>
+ <summary><h3> <img src="https://emoji.discadia.com/emojis/98518d5b-80e3-47f3-b0ea-68fcfe187b22.gif" width="30px"> l11EG4's Bio</h6></summary>
 <ul>
 <li>As a designer, I am passionate about creating visual identities that capture the essence of a brand and tell its story in a compelling way. Whether designing logos, websites, or marketing materials, I am always looking for ways to push the boundaries of creativity and innovation.</li>
 <li>As a frontend developer, I am highly skilled in a range of web development technologies, including HTML, CSS, JavaScript, and more. I am committed to creating web experiences that are intuitive, user-friendly, and accessible to everyone, regardless of their device or ability.</li>
