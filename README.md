@@ -5,13 +5,13 @@
 
  ![Working](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrbimr5bcxmevdp8h704.gif)
  
-## 💫 About Me:
+## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
 <li>My name is <code>Zakaria Berahmi</code>, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.</li>
  </p>
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
-## 🌐 Socials:
+## <img src="https://emoji.discadia.com/emojis/7556dffa-b88b-4268-af6a-da595b0a3fe6.gif" width="30px"> Socials:
 
    </a>
     <a href="https://www.linkedin.com/in/zakaria-berahmi-8b6988144/" target="_blank">
@@ -20,12 +20,12 @@
     <a href="https://twitter.com/l11ega" target="_blank">
       <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="">
 
-## 💻 Skills:
+## <img src="https://emoji.discadia.com/emojis/d19e626e-ea56-41ab-8226-7a5033d9648f.gif" width="30px"> Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📊 My GitHub Stats & Activity
+## <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> My GitHub Stats & Activity
 
-###  Profile Stats
+### <img src="https://emoji.discadia.com/emojis/a7525bbb-e42a-4621-9137-f05d39aebeb2.gif" width="30px"> Profile Stats
 
 
 <div align="center">  
@@ -39,7 +39,7 @@
 </div>
   
 #
-###  Streak Stats
+### <img src="https://emoji.discadia.com/emojis/f9e15174-d2c8-4914-8554-cce3a7355772.gif" width="30px"> Streak Stats
 
  <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=l11EG4&theme=tokyonight_duo&hide_border=true"
@@ -52,7 +52,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
 
  <details>
- <summary><h3> 👩🏽‍💻 l11EG4's Bio</h6></summary>
+ <summary><h3> <img src="https://emoji.discadia.com/emojis/74689fa9-cbc2-4887-a895-4e6bee49944a.GIF" width="30px"> l11EG4's Bio</h6></summary>
 <ul>
 <li>As a designer, I am passionate about creating visual identities that capture the essence of a brand and tell its story in a compelling way. Whether designing logos, websites, or marketing materials, I am always looking for ways to push the boundaries of creativity and innovation.</li>
 <li>As a frontend developer, I am highly skilled in a range of web development technologies, including HTML, CSS, JavaScript, and more. I am committed to creating web experiences that are intuitive, user-friendly, and accessible to everyone, regardless of their device or ability.</li>
