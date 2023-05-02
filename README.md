@@ -27,7 +27,9 @@ My name is Zakaria Berahmi, and I am a designer and frontend developer based in 
 </div>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Graph
-  ![l11EG4's status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l11EG4&theme=vue)
+<div align=center>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l11EG4&theme=vue" alt="l11EG4's status">
+</div>
   
 #
 ###  Streak Stats
