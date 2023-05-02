@@ -4,11 +4,14 @@
   </a>
 
  <body style="margin: 0px; background: #0e0e0e; height: 100%"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"><div id="loom-companion-mv3" ext-id="liecbddmkiiihnedobmlmillhodjkdmb"><section id="shadow-host-companion"></section></div></body>
-  
+
+## 💫 About Me:
 My name is Zakaria Berahmi, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-berahmi-8b6988144/)
 
 ## 📊 My GitHub Stats & Activity
 
