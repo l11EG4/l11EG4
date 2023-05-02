@@ -1,9 +1,9 @@
-<p align="center">
+ <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
-  
-<body style="margin: 0px; background: #0e0e0e; height: 100%"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"><div id="loom-companion-mv3" ext-id="liecbddmkiiihnedobmlmillhodjkdmb"><section id="shadow-host-companion"></section></div></body>
+
+ <body style="margin: 0px; background: #0e0e0e; height: 100%"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"><div id="loom-companion-mv3" ext-id="liecbddmkiiihnedobmlmillhodjkdmb"><section id="shadow-host-companion"></section></div></body>
   
 My name is Zakaria Berahmi, and I am a designer and frontend developer based in Rabat, Morocco. I have always been fascinated by the intersection of design and technology, and I have dedicated my career to creating beautiful and functional digital experiences for users around the world.
   
