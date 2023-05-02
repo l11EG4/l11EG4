@@ -3,17 +3,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A61F69&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
 
-<!--
-**l11EG4/l11EG4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l11EG4&label=Profile%20views&color=0e75b6&style=flat" alt="l11EG4" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My GitHub Stats & Activity
+
+###  Profile Stats
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=l11EG4&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Ayoub Dev github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div>
+
+###  Streak Stats
+
+ <p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=l11EG4&theme=tokyonight_duo&hide_border=true"
+ </p>
+  
+### 🐍 Don't Let The Snake Eat Your Contributions Graph
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
