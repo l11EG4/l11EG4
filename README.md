@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B%2C+I'm+Zakaria+Berahmi!;I'm+a+Software+Engineering+Student;Welcome+to+my+GitHub+profile!❤️" />
   </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l11EG4&label=Profile%20views&color=00b3ff&style=flat" alt="l11EG4" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l11EG4" alt="l11EG4" /></a> </p>
 
 
@@ -29,3 +28,7 @@
   
 ### 🐍 Don't Let The Snake Eat Your Contributions Graph
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+#### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
