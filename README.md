@@ -51,7 +51,8 @@ My name is Zakaria Berahmi, and I am a designer and frontend developer based in 
 ![Visitor Count](https://profile-counter.glitch.me/{l11EG4}/count.svg) 
 
  <details>
- <summary><h3> 👩🏽‍💻 l11EG4's Bio</h3></summary>
+ <summary><h3> 👩🏽‍💻 l11EG4's Bio</h6></summary>
+
 As a designer, I am passionate about creating visual identities that capture the essence of a brand and tell its story in a compelling way. Whether designing logos, websites, or marketing materials, I am always looking for ways to push the boundaries of creativity and innovation.
 
 As a frontend developer, I am highly skilled in a range of web development technologies, including HTML, CSS, JavaScript, and more. I am committed to creating web experiences that are intuitive, user-friendly, and accessible to everyone, regardless of their device or ability.
