@@ -18,7 +18,7 @@ My name is Zakaria Berahmi, and I am a designer and frontend developer based in 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11EG4&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 
-### Graph
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Graph
   ![l11EG4's status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l11EG4&theme=vue)
   
 #
